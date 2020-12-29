@@ -1,0 +1,79 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+header{
+	background-color: #E5E4E2;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+h1, h2{
+	font-family: 'Hanalei Fill', cursive;
+	font-size: 40px;
+
+}
+
+header h1{
+	color: #A0522D;
+
+
+}
+
+header img{
+	border-radius: 93px;
+	width: 200px;
+	border: 2px solid #6E260E;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 40px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: red;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: red;
+}
+a:hover{
+	color: blue;
+}
+
+footer{
+	background-color: green;
+	text-align: center;
+	color: white;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color:yellow;
+
+}
+
+footer a:hover{
+	opacity: .7;
+	background-color: transparent;
+}
+
+
+
+
+
